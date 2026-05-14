@@ -18,7 +18,7 @@
 - thought about required costs
 - decided to make BOM for some reason
 
-<img width="970" height="265" alt="Screenshot 2026-05-13 at 4 25 26 PM" src="https://github.com/user-attachments/assets/c6c1e1e4-7bde-4123-b185-dee417a0ed46" />
+<img width="580" height="507" alt="image" src="https://github.com/user-attachments/assets/439e133b-8376-4244-82cc-56f5eac84dd9" />
 
 - im going to source a lot of parts from Amazon
   - Aliexpress has misdelievered packages
