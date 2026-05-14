@@ -1,4 +1,4 @@
-### 05/12: 20 minutes
+### 05/12: created idea + plan (20 min)
 - created idea after seeing StenoKeyboard's outrageous pricing on https://stenokeyboards.com/products/the-uni-v4
 - i've seen videos of people typing at crazy speeds with steno
 - what if i made a cheap steno keyboard?
@@ -14,7 +14,7 @@
 - goal of this project is to be ultra-polished in every way possible
   - want some sick renders  
 
-### 5/13: 30 minutes
+### 5/13: expanded on plan, created initial BOM, figured out firmware (30 min)
 - thought about required costs
 - decided to make BOM for some reason
 
