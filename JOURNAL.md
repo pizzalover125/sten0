@@ -38,3 +38,49 @@
 - nvm ill use 3x10 cause its easier and i have enough keys and it would be easier to route
 
 <img width="970" height="265" alt="image" src="https://github.com/user-attachments/assets/07a71782-ce72-4925-90fe-e771dd74f084" />
+
+### 5/14: redid design + schematic + PCB (140 min)
+- before starting the schematic, I wanted to look at other open source Steno boards
+- found https://plover.wiki/index.php/DIY_steno_writers
+  - they are cool, but none of them have encoders or OLEDs
+- omg i just realized my layout is off
+- i need another two keys on the left side
+- i did not expect almost all steno keyboards to be not aligned?
+- thats actually so weird, but ill change my design
+- i also need to move the bottom row down by 1 unit
+- how did i make all these mistakes wow
+
+<img width="843" height="393" alt="image" src="https://github.com/user-attachments/assets/e3841258-1064-4761-afef-338f018ac056" />
+
+- ok that was ez to fix
+- time to hop on KiCad
+- watching https://www.youtube.com/watch?v=8WXpGTIbxlQ to learn a little bit
+- got matrix done
+- using this https://pip-assets.raspberrypi.com/categories/610-raspberry-pi-pico/documents/RP-008309-DS-1-Pico-R3-A4-Pinout.pdf?disposition=inline
+
+<img width="1155" height="764" alt="image" src="https://github.com/user-attachments/assets/33c4b271-5538-496b-a77d-d18f7e05a526" />
+
+- schematic done! it was pretty ez
+- assigned footprint
+  - spent 5 minutes looking for EC11 + cherry mx footrpints but realized they were built in after alex told me
+- time to start PCB!
+  
+  <img width="1189" height="420" alt="image" src="https://github.com/user-attachments/assets/25746456-65ac-40e2-91fe-779f18e90af8" />
+
+- finished the keys, encoders, and pico placement; need to do diodes + OLED
+
+<img width="959" height="365" alt="image" src="https://github.com/user-attachments/assets/e4f4d496-1cfc-466e-946d-90c648ac7ee9" />
+
+- routing time!
+- oops forgot to flip the diodes... ill do that rn!
+- routed!
+
+<img width="926" height="320" alt="image" src="https://github.com/user-attachments/assets/e686b3a7-6759-48c3-9f69-02fa45546c78" />
+
+- added 3d models for keys
+  - took so long for no reason
+- added all the other 3d models... these were shorter!
+
+<img width="697" height="221" alt="image" src="https://github.com/user-attachments/assets/383648ef-e66b-4cd0-ada1-46053d653374" />
+
+- aight going to call it for a day but great progress today!
