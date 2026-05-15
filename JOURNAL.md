@@ -114,3 +114,23 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 
 - im creating firware w help of Claude (pretty hard to do firmware w/o parts)
 
+### 5/15: part 2: mounting holes (15 minutes)
+- adding the mounting holes
+- watching https://www.youtube.com/watch?v=TDL3USgDEM0
+- realized I only have to press "a" and add M2 hole
+- need to position it properly
+
+<img width="703" height="274" alt="image" src="https://github.com/user-attachments/assets/aa62082c-2fbd-481b-92ae-bba00febe910" />
+
+- i want to make the PCB black (or white i haven't chosen yet)
+
+<img width="883" height="313" alt="image" src="https://github.com/user-attachments/assets/178d99cb-a5b0-478e-a760-d07093cea560" />
+
+- looks pretty mid ngl
+- okay time to do case
+- idk what software to use
+- ehhh ill just design a logo today
+- time to hop on figma
+- nvm my internet went out??????????? why did this happen to me
+- uhhhh ig i can't do much so ill end it here for today... unless it comes back
+
