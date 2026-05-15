@@ -84,3 +84,33 @@
 <img width="697" height="221" alt="image" src="https://github.com/user-attachments/assets/383648ef-e66b-4cd0-ada1-46053d653374" />
 
 - aight going to call it for a day but great progress today!
+
+### 5/15: part 1: firmware (50 minutes)
+- new day; no school!
+- wanted to fully figure out the firmware aspect
+- found the NKRO layout for https://nolltronics.com/product/picosteno/
+  - NKRO is basically a setting you can change on your QWERTY keyboard to actually register all the keys you press at the same time
+
+<img width="1164" height="359" alt="image" src="https://github.com/user-attachments/assets/360618a4-5249-4299-90e4-315ea0ac84c4" />
+
+- basically, ill code firmware w/ regular QMK/KMK and itll be normal keyboard firmware.
+- user runs Plover software on their computer
+- Plover converts each regular key press to steno
+- this way, I can have the OLED + rotary encoders be super easy to code up
+- i removed the labels from the front + back silkscreen to make it look better / cleaner
+- ill do only firmware today
+- i created the keymap:
+  
+column 1: Q W E R T Y U I Y P [
+column 2: A S D F T O J K L ; '
+column 3: 2 C V [mute/unmute] [video on/off] N M 8 '
+
+- this looks super simple but it isn't bc i messed up in schematic / placement and some of the keys were swapped around; instead of rerouting, imo fixing it in firmware is better and faster and thats what I did
+- wait nvm i messed up; this should be good:
+
+column 1: Q W E R T Y U I Y P 
+column 2: A S D F T O J K L ; 
+column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
+
+- im creating firware w help of Claude (pretty hard to do firmware w/o parts)
+
