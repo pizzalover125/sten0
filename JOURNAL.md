@@ -178,7 +178,7 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - time to see JLC.. doesn't work?
 - ok time to sleep; will see tmrw
 
-### 5/17: polish + BOM (60 minutes)
+### 5/17: polish + BOM (140 minutes)
 - started off with a BOM
 - wait if I get some more switches I can build 2 keyboards
 - ok $6 more for +1 keyboard is not bad
@@ -207,3 +207,28 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - rounded literally every corner
 - idk what else to make this polished
 - ok ive seen so many other keyboards and don't see how mine isn't as polished...
+- made PCB shorter
+- ok im going to reroute everything to make routing better
+- moving two diodes below encoders bc they seem kinda weird
+- looks better
+
+<img width="266" height="351" alt="image" src="https://github.com/user-attachments/assets/3105cc9c-f4a2-43e7-8b88-8c8f589a9603" />
+
+- rerouted everything!
+
+<img width="1167" height="471" alt="image" src="https://github.com/user-attachments/assets/82fe2cf5-8dff-45ca-b0cf-92f7d1d2fada" />
+
+- ok imma make a 3d model of the key + keycap
+- WHY ALL KEYCAPS ARE SLANTED OMG MGOMOGMOGMOGM
+- looks pretty slick NGL
+
+<img width="742" height="370" alt="image" src="https://github.com/user-attachments/assets/2cbbbdab-2898-4c0f-bce6-1eee1ba9efa9" />
+<img width="741" height="295" alt="image" src="https://github.com/user-attachments/assets/91527503-1562-47f0-b3a3-256ca54fefeb" />
+
+- ill create a rotary encoder w/ cap as well
+
+<img width="725" height="383" alt="image" src="https://github.com/user-attachments/assets/9ca9a0b3-c3d9-4414-86cc-812ce0f19df3" />
+
+- time for render!
+- not working on render?
+- ok its fine 
