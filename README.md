@@ -1,4 +1,4 @@
-# sten0: the best open source stenography keyboard
+# sten0: the best stenography keyboard
 sten0 is a minimalist, cheap steno board. it was meant to defeat the industry standard Uni v4. it uses a 2-layer PCB and KMK firmware that converts to stenography with Plover. 
 
 <img width="1035" height="341" alt="image" src="https://github.com/user-attachments/assets/9dbfd9b3-72da-4909-82cf-9539d38a1004" />
