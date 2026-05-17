@@ -134,7 +134,7 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - nvm my internet went out??????????? why did this happen to me
 - uhhhh ig i can't do much so ill end it here for today... unless it comes back
 
-### 5/17: stuff (100 minutes)
+### 5/17: render + polish (120 minutes)
 - BRUHHHH MY WHOLE JOURNAL for today GOT DELETED
 - basically, I was learning how to Render KiCad
 - It was this crazy thing where I had to downgrade KiCAD to 9.0 and then upgrade to 10.0
@@ -164,3 +164,15 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 
 - what do we think? it looks pretty sick ngl
 - idk what else to add for polish
+- will look at approved keebs on hardware.hackclub.com
+- liked https://github.com/KaiPereira/PR1SM, https://github.com/sudo-apt-install-tap/TaoTeChing, https://github.com/code2344/SplitCodeBoard, https://github.com/meepodeep/ErgoDecks
+- ok all of them are pretty standard and i lowk didn't gain much inspiration
+- note to self: need to split the keyboard in half to print it
+- wait I can just do that in the Bambu Slicer; ok ill just do that
+- ok i think plan now is to finalize and then submit
+- start w/ BOM
+
+<img width="1265" height="450" alt="image" src="https://github.com/user-attachments/assets/4352d4af-7238-42e1-8907-a6870afe64ca" />
+
+- im genuinely shocked by this
+- time to see JLC
