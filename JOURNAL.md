@@ -134,7 +134,7 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - nvm my internet went out??????????? why did this happen to me
 - uhhhh ig i can't do much so ill end it here for today... unless it comes back
 
-### 5/17: render + polish (120 minutes)
+### 5/16: render + polish (120 minutes)
 - BRUHHHH MY WHOLE JOURNAL for today GOT DELETED
 - basically, I was learning how to Render KiCad
 - It was this crazy thing where I had to downgrade KiCAD to 9.0 and then upgrade to 10.0
