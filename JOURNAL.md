@@ -216,7 +216,7 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 
 - rerouted everything!
 
-<img width="1167" height="471" alt="image" src="https://github.com/user-attachments/assets/82fe2cf5-8dff-45ca-b0cf-92f7d1d2fada" />
+<img width="1167" height="471" alt="image" src="https://github.com/user-attachments/assets/b9df68bc-9061-45a8-beb3-102deffbe778" />
 
 - ok imma make a 3d model of the key + keycap
 - WHY ALL KEYCAPS ARE SLANTED OMG MGOMOGMOGMOGM
