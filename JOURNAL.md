@@ -178,7 +178,7 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - time to see JLC.. doesn't work?
 - ok time to sleep; will see tmrw
 
-### 5/17: polish + BOM (140 minutes)
+### 5/17: polish + BOM (180 minutes)
 - started off with a BOM
 - wait if I get some more switches I can build 2 keyboards
 - ok $6 more for +1 keyboard is not bad
@@ -232,3 +232,4 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - time for render!
 - not working on render?
 - ok its fine 
+- added README... ready to submit!
