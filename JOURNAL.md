@@ -175,4 +175,35 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 <img width="1265" height="450" alt="image" src="https://github.com/user-attachments/assets/4352d4af-7238-42e1-8907-a6870afe64ca" />
 
 - im genuinely shocked by this
-- time to see JLC
+- time to see JLC.. doesn't work?
+- ok time to sleep; will see tmrw
+
+### 5/17: polish + BOM (60 minutes)
+- started off with a BOM
+- wait if I get some more switches I can build 2 keyboards
+- ok $6 more for +1 keyboard is not bad
+- soooooo that comes down to $67.64 for two keebs or $33.82 for two
+  - doesn't include 3d printed case but thats not too bad
+- acon told me to look at other keyboard companies
+- polish #1: logo on back
+
+<img width="739" height="401" alt="image" src="https://github.com/user-attachments/assets/7cfe024f-0eb3-49cf-86c7-3a385ad443b7" />
+
+- watched https://www.youtube.com/watch?v=YR1xkOp5U1g
+- just realized I forgot screws in BOM
+- ok apparently i can just use M2x3 without any hex nuts.
+- adding to BOM
+- ok $80.43 now; still cheaper than an Asterik
+- ok going to scroll more on hardware.hackclub.com
+- wait b4 that I wanted to round all corners
+
+<img width="1435" height="566" alt="image" src="https://github.com/user-attachments/assets/756ba424-0802-4c3a-93cb-77553fbdc409" />
+
+- wait i don't need mounting holes if tolerance is tight enough
+- idk ill still keep them
+
+<img width="1045" height="577" alt="image" src="https://github.com/user-attachments/assets/9197a7cf-7fb0-48a9-a898-d0842114895a" />
+
+- rounded literally every corner
+- idk what else to make this polished
+- ok ive seen so many other keyboards and don't see how mine isn't as polished...
