@@ -134,3 +134,33 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - nvm my internet went out??????????? why did this happen to me
 - uhhhh ig i can't do much so ill end it here for today... unless it comes back
 
+### 5/17: stuff (100 minutes)
+- BRUHHHH MY WHOLE JOURNAL for today GOT DELETED
+- basically, I was learning how to Render KiCad
+- It was this crazy thing where I had to downgrade KiCAD to 9.0 and then upgrade to 10.0
+- I downloaded Blender and Fusion and tried to Render but it wasn't working
+- I watched like 5 YT videos trying to figure it out
+- So I ultimately decided to have no render
+- I added mounting holes + logos
+
+<img width="706" height="323" alt="image" src="https://github.com/user-attachments/assets/9f2b8c7d-9d3d-4f0b-a84e-f4906890a788" />
+
+- made back panel
+
+<img width="728" height="493" alt="image" src="https://github.com/user-attachments/assets/b35eb90c-1faf-449a-a6cc-acec0179cc6f" />
+
+- tried to export from KiCAD as STEP but it doesn't work?
+- ok that was a weird bug; i just had to redraw the outline
+
+<img width="1211" height="519" alt="image" src="https://github.com/user-attachments/assets/143825d8-5359-4867-beaf-38b63598382a" />
+
+- pretty basic, ngl
+- idk where to add polish
+- first im going to add keycaps to make it look better
+- nvm no keycaps bc very tedious
+- asked for help on Slack: https://hackclub.slack.com/archives/C0B0CADUV3P/p1778990312121819
+
+<img width="1035" height="341" alt="image" src="https://github.com/user-attachments/assets/c53ed315-2d9c-4a1b-b074-c4b5e44e6160" />
+
+- what do we think? it looks pretty sick ngl
+- idk what else to add for polish
