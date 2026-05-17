@@ -1,3 +1,7 @@
+# journal
+
+9 hours and 15 minutes spent!
+
 ### 05/12: created idea + plan (20 min)
 - created idea after seeing StenoKeyboard's outrageous pricing on https://stenokeyboards.com/products/the-uni-v4
 - i've seen videos of people typing at crazy speeds with steno
