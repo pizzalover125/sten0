@@ -3,6 +3,11 @@ sten0 is a minimalist, cheap steno board. it was meant to defeat the industry st
 
 <img width="1035" height="341" alt="image" src="https://github.com/user-attachments/assets/9dbfd9b3-72da-4909-82cf-9539d38a1004" />
 
+### what is steno?
+traditional stenography keyboards are keyboards used by transcribers at justices to type extremely fast. hobbyists and now companies have created their own versions of steno keyboards. one can easily get 200 wpm using steno, demonstrated in the video here: https://www.youtube.com/watch?v=l8SWkR5y774. 
+
+the company, stenokeyboards.com, is the leader of the steno industry with products that are pretty cool, but extremely expensive and lacking features. there are other steno keyboards, but they are either super expensive or do not have any features other than steno. i wanted to build a feature-packed stenography keyboard that is still cheap. 
+
 ### features
 - 28x MX keys
 - 0.96" OLED display
