@@ -1,0 +1,13 @@
+Item,Price,Link,,Orders,,,Notes
+"2x 0.96"" OLED",$8,https://www.amazon.com/Serial-Display-SSD1306-Arduino-Raspberry/dp/B0DYYD243V/ref=sr_1_7?crid=KQODFPU23K1P&dib=eyJ2IjoiMSJ9.bZr35tiQQESDmlBbMQ75HlG2uQvUdTJ-3WEzXMejBs8aZhAfkhBgswedeTmUdQoGjLS6DE6l53w4SQbrrK4gcO1T3VnqLpeKGjVajUlLvQNcsIA8Uo53n1mUMQPGaGbsTeg3Tf9L_OoIGyeGKzfy-O24yJ0q6AdlgPa9oiOxLrZ8ALO1nYurTevrKmcaAKb6bU35EvCtIqWmym_vbfj08uS8Nx4qGtqOtCiYMcSiscOpCE-6QwPKh22gmenrHy1CWqIB0HvnEbbu2sR7-uYZ6wtGyRfwOQNhSLSPI55j3QU.76NeWWkqU2ap1oIBFW31EmI-JQnhrGMQo2PQdvT7DY8&dib_tag=se&keywords=0.96%22+OLED&qid=1778991917&refinements=p_36%3A-900&rnid=386442011&s=electronics&sprefix=0.96+oled%2Celectronics%2C197&sr=1-7,,Amazon,$38.04,,The BOM on right is w/o taxes + shipping
+65x Blue MX Switches,$16,https://www.amazon.com/gp/product/B095W1QYPJ/ref=ewc_pr_img_4?smid=A2U3R73MNHPWPS&psc=1,,JLCPCB,$42.39,,The Orders on left is w/ taxes and shipping
+100x 1N4148 Diodes,$4,https://www.amazon.com/gp/product/B081JKJM6N/ref=ewc_pr_img_3?smid=AMND9J0IFY6ZR&psc=1,,,,,Using cheapest shipping on JLC (still $14)
+5x EC11 Pots,$6,https://www.amazon.com/gp/product/B0BP6G8D7B/ref=ewc_pr_img_2?smid=AUL429VXNU4D4&psc=1,,,,,Prime shipping on AMZN to make shipping free
+10x M2x3 screws,$4,https://www.amazon.com/Deal4GO-10-Pack-Replacement-Phillips-Heatsink/dp/B0B1Q9QQ7F/ref=sr_1_11?crid=17OF0CTDJ3ENG&dib=eyJ2IjoiMSJ9.N_jtSi-oyuhI1iAa-vy5JBeZU7SUsXLhvL8Pr96flRp6ZgVngKREh0xnPNwjpXQ1acVa6ZK1M3_B4ojHy0wdllhDzNeuhW7jrsC0PAuWyaPUVD4WE727o2imCKEhdeCtdLTBNgqWvjqxK_qi5HaZ49s0WcDLSu3tXAJRKNU8OkrZN4q-O-x_E5eZmk7FQYh-eFwbSwRICeKjpfJ9XTWc4cFn26Vn8dOfR5XMTGdmdNw.PbiYHB45FxUItqM1mjzzXfNj4SPlxLvul4ULhOI99iM&dib_tag=se&keywords=m2x3%2Bnuts&qid=1779037469&sprefix=m2x3%2Bnuts%2Caps%2C185&sr=8-11&th=1,,,,,
+,,,,,,,
+1x RPI Pico,$0,closet,,,,,
+,,,,,,,
+5x JLCPCB,$15,https://jlcpcb.com/,,,,,
+,,,,,,,
+1x 3D-printed case,$0,3d printer at my house,,Total,$80.43,,
+28x keycaps,$0,3d printer at my house,,,,,
