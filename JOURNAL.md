@@ -1,6 +1,6 @@
 # journal
 
-9 hours and 15 minutes spent!
+9 hours and 30 minutes spent!
 
 ### 05/12: created idea + plan (20 min)
 - created idea after seeing StenoKeyboard's outrageous pricing on https://stenokeyboards.com/products/the-uni-v4
@@ -238,7 +238,7 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - ok its fine 
 - added README... ready to submit!
 
-### 5/17: part 2: fixing CAD (10 minutes)
+### 5/17: part 2: fixing CAD (15 minutes)
 - after I uploaded the thing on Slack, Taran told me I needed some sort of support for the pins
 - after a lot of help by him, I made the thing below:
 
