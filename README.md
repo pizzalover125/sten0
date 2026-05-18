@@ -22,7 +22,7 @@ I used KiCad for the PCB design. The silkscreen art was created using https://ww
 <img width="725" height="383" alt="image" src="https://github.com/user-attachments/assets/6cb3fec4-ae82-48f8-ad84-396f5681bf3c" />
 
 ### CAD
-I used Onshape for the entire CAD. It's pretty basic, as I wanted to have an exposed PCB. To achieve this, the design only features a backplate. The case uses M2x3 screws to hold everything in. 
+I used Onshape for the entire CAD. It's pretty basic, as I wanted to have an exposed PCB. To achieve this, the design only features a backplate. The case uses M2x3 screws to hold everything in (including OLED!). Split in half in Slicer to print on a regular sized printer bed.  
 
 <img width="1451" height="574" alt="image" src="https://github.com/user-attachments/assets/63cf98a7-1206-4cbf-a3d4-17cdc3985e31" />
 
