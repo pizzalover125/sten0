@@ -237,3 +237,16 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - not working on render?
 - ok its fine 
 - added README... ready to submit!
+
+### 5/17: part 2: fixing CAD (10 minutes)
+- after I uploaded the thing on Slack, Taran told me I needed some sort of support for the pins
+- after a lot of help by him, I made the thing below:
+
+<img width="343" height="279" alt="image" src="https://github.com/user-attachments/assets/aa1dae57-6e44-41e9-abb0-78e5b7880b27" />
+
+- Taran said it looks good so :yay:
+- okay he said to extrude something on bottom
+- ill do that later
+- ok turns out i also need standoffs for OLED
+- will do
+- wait i can't extrude a logo or something on bottom bc im splitting it in half
