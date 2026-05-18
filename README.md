@@ -24,7 +24,7 @@ I used KiCad for the PCB design. The silkscreen art was created using https://ww
 ### CAD
 I used Onshape for the entire CAD. It's pretty basic, as I wanted to have an exposed PCB. To achieve this, the design only features a backplate. The case uses M2x3 screws to hold everything in (including OLED!). Split in half in Slicer to print on a regular sized printer bed.  
 
-<img width="1451" height="574" alt="image" src="https://github.com/user-attachments/assets/63cf98a7-1206-4cbf-a3d4-17cdc3985e31" />
+<img width="1315" height="608" alt="image" src="https://github.com/user-attachments/assets/9e1c671b-b449-41a6-a331-adf67a098dff" />
 
 ### Firmware
 There is a matrix that links to QWERTY layout which will be converted to Steno layout with Plover. 
