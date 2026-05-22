@@ -250,3 +250,18 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - ok turns out i also need standoffs for OLED
 - will do
 - wait i can't extrude a logo or something on bottom bc im splitting it in half
+
+### 5/21: project rejected (1 hr)
+- project got rejected... 😭
+- got rejected for design which i can understand
+- need to make design more cohesive
+- no exposed PCB ig
+- ok ill make basic face plate then ill spice it up
+- nvm ill just create a cool render
+- the encoder keeps bugging out; need a fix
+- tried like 5 diff models and tweaked a bunch of settings and it worked!
+
+<img width="731" height="259" alt="image" src="https://github.com/user-attachments/assets/e3ed03e8-3ad0-433b-8ca0-defdd115289c" />
+<img width="1197" height="267" alt="image" src="https://github.com/user-attachments/assets/513995c3-f446-498f-af5c-2953eea99808" />
+<img width="850" height="324" alt="image" src="https://github.com/user-attachments/assets/0535d998-d9b1-49d6-88a9-c3221efee283" />
+<img width="590" height="399" alt="image" src="https://github.com/user-attachments/assets/a8d1d40f-a583-4556-8639-b64b67ae01d0" />
