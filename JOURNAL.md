@@ -333,7 +333,7 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 
 - keys may not be able to be pressed
 
-### 5/23: day of shipment (2hr 50 min)
+### 5/23: day of shipment (4hr)
 - added 1mm more of spacing
 
 <img width="982" height="330" alt="image" src="https://github.com/user-attachments/assets/7b25a9a8-7044-47c1-9c3b-bca090d2e9e3" />
@@ -380,3 +380,20 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - let me create BOM.csv
 - ok going to upload all PCB files through a Codespace
 - added everything except the CAD and CAD images in README
+- time to go back to doing CAD! (started 220)
+- watching https://www.youtube.com/watch?v=7azQkSu0m_U
+- not helpful at all
+- manually did it
+
+<img width="992" height="466" alt="image" src="https://github.com/user-attachments/assets/95e4b81b-5aac-4724-8482-05e5be61b17e" />
+
+- cool section view
+- ok i made it so the holes are invis
+- cutout in middle also
+- going to test out micro-usb cable
+- it fits!
+
+<img width="1035" height="337" alt="image" src="https://github.com/user-attachments/assets/95ddc964-23e8-417c-b6b4-7a4c681b0d9a" />
+
+- voila!
+- ok preparing for submission again
