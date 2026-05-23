@@ -264,7 +264,7 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 <img width="850" height="324" alt="image" src="https://github.com/user-attachments/assets/0535d998-d9b1-49d6-88a9-c3221efee283" />
 <img width="590" height="399" alt="image" src="https://github.com/user-attachments/assets/a8d1d40f-a583-4556-8639-b64b67ae01d0" />
 
-### 5/22: CAD CAD CAD nvm i switched to designing quality PCB 
+### 5/22: CAD CAD CAD nvm i switched to designing quality PCB (3hr)
 - ok time to make a better CAD!
 - im thinking i'll do a simpler backplate design with a cool frontplate so its basically a sandwich
 - nvm this is too hard
@@ -319,3 +319,16 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 <img width="1233" height="383" alt="image" src="https://github.com/user-attachments/assets/f71b9514-fc57-4120-9045-580edcddd933" />
 
 - idk if this will work
+- added things in middle:
+
+<img width="1206" height="338" alt="image" src="https://github.com/user-attachments/assets/8258f147-8040-4d55-9669-d842c3ce7f31" />
+
+- added cutout!
+
+<img width="211" height="170" alt="image" src="https://github.com/user-attachments/assets/8bb05cdf-01ee-4eb5-b6b1-0a8e612ed10a" />
+
+- going to render this
+
+<img width="863" height="396" alt="image" src="https://github.com/user-attachments/assets/b9d89b97-4096-4dc4-8b13-a8bc81232aef" />
+
+- keys may not be able to be pressed
