@@ -1,7 +1,5 @@
 # journal
 
-9 hours and 30 minutes spent!
-
 ### 05/12: created idea + plan (20 min)
 - created idea after seeing StenoKeyboard's outrageous pricing on https://stenokeyboards.com/products/the-uni-v4
 - i've seen videos of people typing at crazy speeds with steno
@@ -265,3 +263,25 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 <img width="1197" height="267" alt="image" src="https://github.com/user-attachments/assets/513995c3-f446-498f-af5c-2953eea99808" />
 <img width="850" height="324" alt="image" src="https://github.com/user-attachments/assets/0535d998-d9b1-49d6-88a9-c3221efee283" />
 <img width="590" height="399" alt="image" src="https://github.com/user-attachments/assets/a8d1d40f-a583-4556-8639-b64b67ae01d0" />
+
+### 5/22: CAD CAD CAD (started 4:20)
+- ok time to make a better CAD!
+- im thinking i'll do a simpler backplate design with a cool frontplate so its basically a sandwich
+- nvm this is too hard
+- im switching to exposed PCB style
+- time to look for inspo
+- watching https://www.youtube.com/watch?v=82yD0RMeEw8
+- i came up with the following but it doesn't seem like enough
+
+<img width="1078" height="600" alt="image" src="https://github.com/user-attachments/assets/2ba26202-b663-4582-820d-7f38fa4f720b" />
+
+- OMG IVE BEEN TRYING TO MAKE A CUTOUT FOR USB AND ITS NOT WORKING AHHHHH
+- going to redo the PCB layout
+- making it low profile now
+- removing encoders; bulky and don't look good
+- hotswap also cause why not
+- nvm no hotswap cause i don't really need it personally
+
+<img width="1036" height="385" alt="image" src="https://github.com/user-attachments/assets/9fc2ff81-ef35-4fb7-bf30-390277d1c5c5" />
+
+- using only what i need
