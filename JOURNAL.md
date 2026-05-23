@@ -306,3 +306,16 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 
 <img width="842" height="297" alt="image" src="https://github.com/user-attachments/assets/4f81e6b6-27b1-46fa-8bf9-0b1534e311c9" />
 <img width="863" height="294" alt="Screenshot 2026-05-22 at 8 03 14 PM" src="https://github.com/user-attachments/assets/86f5d0e5-0527-4330-96ce-c5dd262c8ab3" />
+
+- there were these random "K"s next to the diodes, so I removed them
+- need to figure out where mounting holes go
+- wait i dont need them cause i can just press fit with supports
+- created dimensions
+
+<img width="1380" height="490" alt="image" src="https://github.com/user-attachments/assets/d7860d81-8021-4b05-afd5-ed14f82b2811" />
+
+- according to my calculations, i need two rectangles; one that is 252x35 and another that is 147x26. 1mm filets
+
+<img width="1233" height="383" alt="image" src="https://github.com/user-attachments/assets/f71b9514-fc57-4120-9045-580edcddd933" />
+
+- idk if this will work
