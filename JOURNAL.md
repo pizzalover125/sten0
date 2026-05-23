@@ -264,7 +264,7 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 <img width="850" height="324" alt="image" src="https://github.com/user-attachments/assets/0535d998-d9b1-49d6-88a9-c3221efee283" />
 <img width="590" height="399" alt="image" src="https://github.com/user-attachments/assets/a8d1d40f-a583-4556-8639-b64b67ae01d0" />
 
-### 5/22: CAD CAD CAD (started 4:20)
+### 5/22: CAD CAD CAD nvm i switched to designing quality PCB 
 - ok time to make a better CAD!
 - im thinking i'll do a simpler backplate design with a cool frontplate so its basically a sandwich
 - nvm this is too hard
@@ -285,3 +285,24 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 <img width="1036" height="385" alt="image" src="https://github.com/user-attachments/assets/9fc2ff81-ef35-4fb7-bf30-390277d1c5c5" />
 
 - using only what i need
+
+<img width="1138" height="402" alt="image" src="https://github.com/user-attachments/assets/69014b11-b78c-47ba-8b1d-0fe9f4b68fe3" />
+
+- routed but just realized its not symetrical 😭
+- ok figuring out how to round corners
+- figured it out! you just use arcs and move the lines
+- acon was right; this feels super nice
+- ok time for routing!
+- OMG I DID IT WITH 0 VIAS
+
+<img width="1382" height="432" alt="image" src="https://github.com/user-attachments/assets/0e904f86-ce26-4d38-bf47-9078e8fa6f81" />
+
+- im going to create a cool render now
+- first i added back silkscreen art
+
+<img width="668" height="365" alt="image" src="https://github.com/user-attachments/assets/8ef9adc0-038f-422d-9085-663f47a56327" />
+
+- renders are awesome
+
+<img width="842" height="297" alt="image" src="https://github.com/user-attachments/assets/4f81e6b6-27b1-46fa-8bf9-0b1534e311c9" />
+<img width="863" height="294" alt="Screenshot 2026-05-22 at 8 03 14 PM" src="https://github.com/user-attachments/assets/86f5d0e5-0527-4330-96ce-c5dd262c8ab3" />
