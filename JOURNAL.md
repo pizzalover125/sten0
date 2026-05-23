@@ -332,3 +332,45 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 <img width="863" height="396" alt="image" src="https://github.com/user-attachments/assets/b9d89b97-4096-4dc4-8b13-a8bc81232aef" />
 
 - keys may not be able to be pressed
+
+### 5/23: day of shipment (2.5hrs)
+- added 1mm more of spacing
+
+<img width="982" height="330" alt="image" src="https://github.com/user-attachments/assets/7b25a9a8-7044-47c1-9c3b-bca090d2e9e3" />
+
+- but now i can't 3d print it.
+- im thinking to reduce space between Pico and rest
+
+<img width="1394" height="519" alt="image" src="https://github.com/user-attachments/assets/3d73f2fa-9e93-4a11-b62d-bee94ffcb2b4" />
+
+- made it smaller + moved diodes to back
+- only 249mm wide
+- dimensions: 249x37, 141x26
+- 3d modeling time
+
+<img width="802" height="113" alt="image" src="https://github.com/user-attachments/assets/183f4d7c-41c1-4d3f-89ce-9ba6ac0f947e" />
+
+- w cutout
+- and i made a render!
+
+<img width="859" height="296" alt="image" src="https://github.com/user-attachments/assets/fa804dc0-2d8c-4bd5-acb3-5b5d286186ef" />
+
+- nvm i need screws apparently
+- ahhhhhh have to redesign it again
+- wait let me create BOM
+
+<img width="437" height="136" alt="image" src="https://github.com/user-attachments/assets/42ef6f4e-5d31-45ca-8e37-a97062dcbea0" />
+<img width="1052" height="775" alt="image" src="https://github.com/user-attachments/assets/01cd5379-e908-449d-ae32-e934b075b149" />
+
+- $53 flat is pretty good ngl
+- ok back to case design
+- watching this https://www.youtube.com/watch?v=cLz7wpwAEoI
+- learned a lot about how to make it exposed PCB
+- but ill just have a front panel ig
+
+<img width="892" height="405" alt="image" src="https://github.com/user-attachments/assets/f8cd2cdb-48fc-4519-9916-02e182dbdf7a" />
+
+- going to use https://kbplate.ai03.com/ for cutouts
+- ok i have no idea on how to do this
+- idk what dimensions to use
+- i have all of it imported; asked on Slack on how to do it; will continue work after
