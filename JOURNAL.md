@@ -333,7 +333,7 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 
 - keys may not be able to be pressed
 
-### 5/23: day of shipment (2.5hrs)
+### 5/23: day of shipment (2hr 40 min)
 - added 1mm more of spacing
 
 <img width="982" height="330" alt="image" src="https://github.com/user-attachments/assets/7b25a9a8-7044-47c1-9c3b-bca090d2e9e3" />
@@ -374,3 +374,8 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - ok i have no idea on how to do this
 - idk what dimensions to use
 - i have all of it imported; asked on Slack on how to do it; will continue work after
+- actually let me fully prepare the BOM
+- lets ring up the PCB cost on JLC
+- $21.08... nice!
+- let me create BOM.csv
+- ok going to upload all PCB files through a Codespace
