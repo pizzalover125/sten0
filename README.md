@@ -4,7 +4,7 @@
 sten0 is a minimalist stenography keyboard. it was meant to defeat the industry standard Uni v4 which is overpriced and unsymmetrical. it uses a 2-layer PCB and KMK firmware that converts to stenography with the industry-standard Plover firmware. 
 
 ### what is steno?
-traditional stenography keyboards are keyboards used by transcribers at justices to type extremely fast. hobbyists and now companies have created their own versions of steno keyboards. one can easily get 200 wpm using steno, demonstrated in the video here: https://www.youtube.com/watch?v=l8SWkR5y774. 
+traditional stenography keyboards are keyboards used by transcribers in a courtroom to type extremely fast. hobbyists and now companies have created their own versions of steno keyboards. one can easily get 200 wpm using steno, demonstrated in the video here: https://www.youtube.com/watch?v=l8SWkR5y774. 
 
 the company, stenokeyboards.com, is the leader of the steno industry with products that are pretty cool, but extremely expensive. worst of all, they are closed source. i wanted to make something better for cheaper.
 
