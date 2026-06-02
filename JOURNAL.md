@@ -1,6 +1,6 @@
 # journal
 
-17.5 hrs total
+17.75 hrs total
 
 ### 05/12: created idea + plan (20 min)
 - created idea after seeing StenoKeyboard's outrageous pricing on https://stenokeyboards.com/products/the-uni-v4
@@ -399,3 +399,14 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 
 - voila!
 - ok preparing for submission again
+
+### 06/02: updating README (15 min)
+- Raygen told me to update it with more details on my exact layout
+- sounds like a great idea so ill do it!
+- experimenting with https://stenokeyboards.com/products/the-uni-v4 and https://opensteno.org/demo/
+
+<img width="926" height="625" alt="image" src="https://github.com/user-attachments/assets/3cb6465d-ec42-4dce-8ae4-fbaf1d7b7a0f" />
+
+- done!
+- i have both QWERTY and STENO
+- will update README with more info
