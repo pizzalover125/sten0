@@ -6,6 +6,8 @@ sten0 is a minimalist stenography keyboard. it was meant to defeat the industry 
 ### what is steno?
 traditional stenography keyboards are keyboards used by transcribers in a courtroom to type extremely fast. hobbyists and now companies have created their own versions of steno keyboards. one can easily get 200 wpm using steno, demonstrated in the video here: https://www.youtube.com/watch?v=l8SWkR5y774. 
 
+steno works by pressing multiple keys at once to create "chords" which create words. each key is associated with a specific sound. for example, to write "cat" press "K A T" all at once.
+
 the company, stenokeyboards.com, is the leader of the steno industry with products that are pretty cool, but extremely expensive. worst of all, they are closed source. i wanted to make something better for cheaper.
 
 ### PCB + Schematic
@@ -24,6 +26,11 @@ I used Onshape for the entire CAD. It features a front plate and a back plate. I
 
 ### Firmware
 The keyboard uses KMK. There is a standard keyboard matrix that links to standard QWERTY layout which will be converted to Steno layout with Plover firmware.
+
+### Layout
+This is the layout for both QWERTY and STENO. The blank keys are macro keys, meaning they can be mapped to anything!
+
+<img width="948" height="654" alt="image" src="https://github.com/user-attachments/assets/6ac774d4-142f-492e-bd59-bc56d32da381" />
 
 ### BOM
 A detailed Bill of Materials can be found at https://docs.google.com/spreadsheets/d/1TjUF5DwXCz-duM485mYQtrJNJa8_saizqugbLS9kPO8/edit?gid=0#gid=0!
