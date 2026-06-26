@@ -410,3 +410,80 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - done!
 - i have both QWERTY and STENO
 - will update README with more info
+
+# BUILD
+Jun 25: 5 hours
+
+### soldering
+- Recieved all the parts today
+- Was NOT expecting to get the PCBs this quick
+- But very excited nonetheless
+- Got straight to building
+- Recorded my soldering cause why not
+- Started with diodes
+- Diodes were pretty simple, just pretty sharp
+- switches slotted right in; no frills
+- Pico was pretty hard to solder
+- I moved Pico to a breadboard to solder headers
+- there were bridges, but easy to remove
+- but when i put them on the board, something went wrong
+- THERE WERE SO MANY SOLDER BRIDGES
+- I thought I could just remove the bridges like normal... right?
+- NOPE! They just wouldn't come off
+- I WAS SO MAD
+- I had to switch the soldering iron tip a couple of times
+- and eventually, they worked!
+
+### firmware
+- when I plugged it in; nothing lit up
+- i was devestated; did I mess up something?
+- did I fry the pico?
+- i frantically connected and reconnected the cable
+- nothing happened
+- i remembered... this pico doesn't like my USB-C port and needs a USB-A cable
+- the pico lit up!
+- i was really happy but also nervous about the firmware not working
+- i uploaded the firmware
+- and it didn't work
+- oh wait i just needed to add the missing folder
+- i added the kmk folder
+- still nothing
+- seems like my firmware was broken
+- i used the getting started guide by KMK
+- one key worked!
+- it was time to figure out the other keys
+- i manually added the other GPIO pins and the keys
+- it was a tedious process, but i eventually got all but 3 working properly
+- these three were confusing cause they just didn't register
+- i tried changing some values aruond but nothing seemed to work
+- after a long time, i realized i had entered 20, 21 instead of 19, 20
+- when i made that super simple fix, it worked!
+- i was actually so thrilled
+- this was my first built hardware project other than my hackpad
+- i was also happy because i don't need to worry about ordering another PCB cause this one works
+- I have a 3D printer so I can tweak the design as needed
+
+### 3d print
+- I wasn't sure if my white filament was enough
+- so i switched it to black
+- but it didn't end up working after multiple failed prints
+- so im moving back to black
+- ok it printed
+- but it doesn't fit
+- need to tweak the model
+- i printed a keycap
+- it fits!
+- didn't like the design tho
+- going to use this simple one: https://www.printables.com/model/700878-simple-choc-v1-flat-keycaps/files
+
+<img width="142" height="322" alt="image" src="https://github.com/user-attachments/assets/17210c9f-7f5c-4be4-95c5-28e1abe137d8" />
+
+- printed! looks super clean
+- redesigning the thing now
+- wait nvm i can just cutout the pins
+- it fits!
+- WHAAAT THE KEEB DOESN'T WORK ANYMORE
+- NOOOOOOOOOOO
+- fixed it!
+- it was a messy solder connectionm
+- shoutout to @Naytik on slack for the help
