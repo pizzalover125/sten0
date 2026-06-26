@@ -487,3 +487,22 @@ Jun 25: 5 hours
 - fixed it!
 - it was a messy solder connectionm
 - shoutout to @Naytik on slack for the help
+
+### 6/26: 30 minutes
+- last night, i printed the top plate that I CADded
+- to add it, i needed to remove the keycaps
+- unfortunately, the keycaps got stuck
+- so i have to replace those switches
+- asked to buy solder wick
+- tried a bunch of things before asking like using glue or the leg of a diode
+- while the wick is being shipped by AMZN, i'll design the top plate
+
+<img width="1221" height="414" alt="image" src="https://github.com/user-attachments/assets/94a1eee5-be47-4422-a951-1e41a4fcf0c9" />
+<img width="1410" height="545" alt="image" src="https://github.com/user-attachments/assets/ac8b4f43-9ec1-4601-b54b-125ad91988a5" />
+
+- looks pretty clean!
+
+<img width="200" height="376" alt="image" src="https://github.com/user-attachments/assets/46ef70c0-9345-4498-9ff2-e2bcfcf97757" />
+
+- it doesn't work
+- asked in Slack
