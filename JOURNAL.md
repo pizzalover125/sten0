@@ -488,7 +488,7 @@ Jun 25: 5 hours
 - it was a messy solder connectionm
 - shoutout to @Naytik on slack for the help
 
-### 6/26: 30 minutes
+### 6/26: 1 hour
 - last night, i printed the top plate that I CADded
 - to add it, i needed to remove the keycaps
 - unfortunately, the keycaps got stuck
@@ -506,3 +506,9 @@ Jun 25: 5 hours
 
 - it doesn't work
 - asked in Slack
+- ok apparently i had to wash the bed
+- did that!
+- reprinted
+- printed perfectly!
+- however, it its too flimsy and the screws dont fit
+- reprinting the model with bigger screw holes and more thickness
