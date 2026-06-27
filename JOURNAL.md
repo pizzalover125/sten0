@@ -1,6 +1,6 @@
 # journal
 
-17.75 hrs total
+17.75 hrs design total
 
 ### 05/12: created idea + plan (20 min)
 - created idea after seeing StenoKeyboard's outrageous pricing on https://stenokeyboards.com/products/the-uni-v4
