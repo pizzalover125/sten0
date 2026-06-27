@@ -488,7 +488,7 @@ Jun 25: 5 hours
 - it was a messy solder connectionm
 - shoutout to @Naytik on slack for the help
 
-### 6/26: 1 hour
+### 6/26: 2 hours
 - last night, i printed the top plate that I CADded
 - to add it, i needed to remove the keycaps
 - unfortunately, the keycaps got stuck
@@ -512,3 +512,16 @@ Jun 25: 5 hours
 - printed perfectly!
 - however, it its too flimsy and the screws dont fit
 - reprinting the model with bigger screw holes and more thickness
+- did it!
+- for 30 minutes, i tried screwing it in with my screws from AMZN
+- but then i realized i got the wrong type of screw
+- i needed self tapping
+- i went to lowes and got some
+- it worked awesome! except it broke the 3d print
+
+<img width="207" height="377" alt="image" src="https://github.com/user-attachments/assets/e37d8b02-05ef-46d5-b872-e0161357e114" />
+
+- ok remodeled it
+- voila!
+
+<img width="1107" height="390" alt="image" src="https://github.com/user-attachments/assets/ffa3ee50-445b-48fa-a35d-1af7fd4a38f8" />
