@@ -525,3 +525,17 @@ Jun 25: 5 hours
 - voila!
 
 <img width="1107" height="390" alt="image" src="https://github.com/user-attachments/assets/ffa3ee50-445b-48fa-a35d-1af7fd4a38f8" />
+
+### 6/27: 30 min
+- i reprinted the top half to work
+- it fit perfectly!
+- i thought, wow, I'm going to ship this today!
+- i printed a keycap
+- it fit
+- i printed more of that keycap, thinking the end was near
+- nope! it didn't fit
+- i literally tried like 5 other online models and NONE OF THEM worked
+- looked on AMZN, but those while not work with my spacing
+- looks like ill need to buy from an actual keyboard website
+- i might design my own keycap to work
+- but wow this is frustating
