@@ -1,6 +1,5 @@
 # journal
 
-17.75 hrs design total
 
 ### 05/12: created idea + plan (20 min)
 - created idea after seeing StenoKeyboard's outrageous pricing on https://stenokeyboards.com/products/the-uni-v4
@@ -411,8 +410,9 @@ column 3: 2 C V [mute/unmute] [video on/off] N M 8 ' [
 - i have both QWERTY and STENO
 - will update README with more info
 
-# BUILD
-Jun 25: 5 hours
+# BUILD: 8 hours
+
+## Jun 25: 5 hours
 
 ### soldering
 - Recieved all the parts today
@@ -539,3 +539,13 @@ Jun 25: 5 hours
 - looks like ill need to buy from an actual keyboard website
 - i might design my own keycap to work
 - but wow this is frustating
+
+### 7/01 (30 min)
+- found a keycap model that works!!! (after going through another 2)
+- LETS GO
+- IM SO HAPPY RN ITS UNBELIEVABLE
+- THEY FIT PERFECTLY
+
+<img width="590" height="382" alt="View recent photos 2" src="https://github.com/user-attachments/assets/46c365a2-1296-40bd-bdcf-308979a60115" />
+
+- im so so happy
